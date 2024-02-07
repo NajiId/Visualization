@@ -22,4 +22,6 @@
 ###### 9- [Minnesota Traffic Volume Dashboard](https://public.tableau.com/app/profile/naji.idriss/viz/MinnesotaTrafficVolumeCharts_17068443195650/Dashboard1)
 
 
+###### 10- [NYC Tree Census and Income](https://public.tableau.com/app/profile/naji.idriss/viz/NYCTreeCensusandIncome_17072824506200/Dashboard3#2)
+
 ![TableauPs](https://github.com/NajiId/Visualization/assets/130331950/2f6f4369-e5f3-4e6e-a869-419fd085803a)

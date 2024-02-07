@@ -1,6 +1,6 @@
 ## Visualization
 #### My Projects on [Tableau](https://public.tableau.com/app/profile/naji.idriss/vizzes)
-![TableauPs](https://github.com/NajiId/Visualization/assets/130331950/2f6f4369-e5f3-4e6e-a869-419fd085803a)
+
 
 
 ###### 1- [Global CO2 Pollution](https://public.tableau.com/app/profile/naji.idriss/viz/WorkingwithTableau_16933631268560/Sheet1) > The map exhibits the countries that produce the most carbon dioxide.
@@ -20,3 +20,6 @@
 
 
 ###### 9- [Minnesota Traffic Volume Dashboard](https://public.tableau.com/app/profile/naji.idriss/viz/MinnesotaTrafficVolumeCharts_17068443195650/Dashboard1)
+
+
+![TableauPs](https://github.com/NajiId/Visualization/assets/130331950/2f6f4369-e5f3-4e6e-a869-419fd085803a)

@@ -5,7 +5,7 @@
 
 ###### 1- [Global CO2 Pollution](https://public.tableau.com/app/profile/naji.idriss/viz/WorkingwithTableau_16933631268560/Sheet1) > The map exhibits the countries that produce the most carbon dioxide.
 
-###### 2- [Dynamic dashboard for holiday rented bikes](https://public.tableau.com/app/profile/naji.idriss/viz/Dynamicdashboardforholidayrentedbikes/Dashboard1_1) & 
+###### 2- [Dynamic dashboard for holiday rented bikes](https://public.tableau.com/app/profile/naji.idriss/viz/Dynamicdashboardforholidayrentedbikes/Dashboard1_1) 
 
 
 ###### 3- [Happiness score](https://public.tableau.com/app/profile/naji.idriss/viz/Happinessscore_16933659567240/Dashboard2)> Happiness score based on:  1. Generosity - 2. Health - 3. Family - 4. Economy

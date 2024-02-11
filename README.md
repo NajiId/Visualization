@@ -1,4 +1,15 @@
 ## Visualization
+
+### Visualizing Data in Tableau
+**Introduction**: 
+This repository contains visualizations created using Tableau, a powerful data visualization tool. Tableau allows users to create interactive and insightful visualizations from various datasets.
+
+**Tableau Visualizations**: 
+The visualizations in this repository showcase data analysis and exploration using Tableau. Each visualization provides a unique perspective on the underlying dataset and highlights important insights.
+
+Explore the visualizations and interact with the data to gain insights.
+Contents
+
 #### My Projects on [Tableau](https://public.tableau.com/app/profile/naji.idriss/vizzes)
 
 
